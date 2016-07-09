@@ -1,5 +1,8 @@
 # ColonyCounter
 
+## Deprecated! 
+## New version can be found [here](https://github.com/ColonyCounter/CascadeImgScript)
+
 *samplefilecreator* is used to create the *bg.txt* and *info.data* files used by *opencv_createsamples*.
 
 Also contains the data folder that can be copied into the build dir of the [ColonyCounter](https://github.com/ColonyCounter/ColonyCounter-GUI) to enable the cascade classifier.
